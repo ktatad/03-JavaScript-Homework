@@ -12,7 +12,7 @@ The user will be directed through a series of prompts requesting input.
 
 The user will be able to see a randomly generated password which adheres to the user's previously established parameter inputs.
 
-![Password Generator Screenshot](assets\images\PasswordGeneratorScreenshot.png)
+![Password Generator Screenshot](assets/images/PasswordGeneratorScreenshot.png)
 
 ## Credits
 
